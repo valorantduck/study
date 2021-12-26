@@ -7,10 +7,7 @@ This project uses [sklearn](https://scikit-learn.org/stable/install.html) and [n
 <h3>For Python3</h3>
 
 pip install sklearn
-***
 pip install pandas
-***
 pip install numpy
-***
 pip install matplotlib
 
