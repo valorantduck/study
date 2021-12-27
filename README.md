@@ -15,7 +15,9 @@ pip install matplotlib
 ```
 <h3>Result</h3>
 ```
+
 You can see the final result in `.ipynb` used `jupyter notebook`.
+
 ```
 <h3> Install problem</h3>
 ```
