@@ -21,12 +21,13 @@ You can see the final result in `.ipynb` used `jupyter notebook`.
 
 ```
 <h3> Install problem</h3>
-If you can not install it by using -m pip install sklearn or others,please use mirror source as
+If you can not install it by using -m pip install sklearn or others,please use mirror source such as
 
 ```
 
-http://mirrors.aliyun.com/
-http://mirrors.tuna.tsinghua.edu.cn/
-http://mirrors.ustc.edn.cn/
+1.http://mirrors.aliyun.com/
+2.http://mirrors.tuna.tsinghua.edu.cn/
+3.http://mirrors.ustc.edn.cn/
 
 ```
+Remember a important thing that you should be careful to install the optimal version which adapts to your PC. 
